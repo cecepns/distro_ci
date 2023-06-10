@@ -84,6 +84,6 @@
 </div>
 <!-- End Container fluid  -->
 <!-- footer -->
-<footer class="footer"> © 2022 Cepi Store
+<footer class="footer"> © 2023 Distro Store
 </footer>
 <!-- End footer -->

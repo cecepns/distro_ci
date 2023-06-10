@@ -8,7 +8,7 @@
 							<span>
 								Selamat datang di
 							</span>
-							<h1>Cepi Store, Gudangnya Fashion.</h1>
+							<h1>Distro Store, Gudangnya Fashion.</h1>
 						</div>
 						<div class="carousel-item">
 							<span>

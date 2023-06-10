@@ -33,8 +33,8 @@
 				</svg>
 			</div>
 
-			<h2>Register Cepi Store</h2>
-			<p class="heading">Mendaftar untuk bisa masuk cepi store</p>
+			<h2>Register Distro Store</h2>
+			<p class="heading">Mendaftar untuk bisa masuk distro store</p>
 
 		</div>
 		<form class="form-signin" method="POST" action="<?php echo base_url()?>register/process">

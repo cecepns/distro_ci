@@ -33,8 +33,8 @@
 				</svg>
 			</div>
 
-			<h2>Login Cepi Store</h2>
-			<p class="heading">Masukan akun yang terdaftar di cepi store</p>
+			<h2>Login Distro Store</h2>
+			<p class="heading">Masukan akun yang terdaftar di distro store</p>
 
 		</div>
 		<form class="form-signin" method="POST" action="<?php echo base_url()?>login/ceklogin">

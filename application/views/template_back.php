@@ -10,7 +10,7 @@
 	<meta name="author" content="">
 	<!-- Favicon icon -->
 	<link rel="icon" type="image/png" sizes="16x16" href="<?php echo base_url() ?>assets/back/images/favicon.png">
-	<title>Cecep Nandang S</title>
+	<title>Distro</title>
 
 	<link href="<?php echo base_url() ?>assets/back/css/lib/chartist/chartist.min.css" rel="stylesheet">
 	<link href="<?php echo base_url() ?>assets/back/css/lib/owl.carousel.min.css" rel="stylesheet" />
@@ -45,7 +45,7 @@
 				<!-- Logo -->
 				<div class="navbar-header">
 					<a class="navbar-brand" href="<?php echo base_url()?>dashboard">
-						CEPI STORE
+						DISTRO STORE
 					</a>
 				</div>
 				<!-- End Logo -->

@@ -9,7 +9,7 @@
 
             <!-- WRAPPER HEADER POPULER PRODUK -->
             <div class="wrapper-header">
-                <h1>Gallery Cepi Store</h1>
+                <h1>Gallery Distro Store</h1>
                 <svg width="49" height="9" viewBox="0 0 49 9" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <line x1="6" y1="1" x2="31" y2="0.999998" stroke="#FF2D55" stroke-width="2"
                         stroke-linecap="round" />

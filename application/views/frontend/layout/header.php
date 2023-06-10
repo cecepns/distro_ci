@@ -1,6 +1,6 @@
 <div class="menu-header">
 	<h4 class="m-0">
-		Cepi Store
+		Distro Store
 	</h4>
 
 	<ul class="menu">

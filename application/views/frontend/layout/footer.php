@@ -30,10 +30,10 @@
 	<div class="footer-copyright">
 		<div class="container">
 			<div class="copyright">
-				&copy; CEPI STORE 2023
+				&copy; DISTRO STORE 2023
 			</div>
 			<div class="about-me">
-				CEPI STORE
+				DISTRO STORE
 			</div>
 		</div>
 	</div>
