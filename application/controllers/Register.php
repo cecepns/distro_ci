@@ -31,18 +31,5 @@ class Register extends CI_Controller {
 
         redirect('login');
     }
-
-
-    // public function ceklogin()
-    // {
-    //     $this->load->model("m_login");
-    //     $this->m_login->ceklogin();
-    // }
-
-    // public function logout()
-    // {
-    //     $this->session->sess_destroy();
-    //     redirect("login");
-    // }
 }
 ?>

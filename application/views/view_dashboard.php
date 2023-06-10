@@ -9,10 +9,10 @@
 <div class="container-fluid h-100">
 	<!-- Start Page Content -->
 	<?php
-$level=$this->session->userdata('level');
-if($level=="Admin")
-{
-?>
+		$level=$this->session->userdata('level');
+			if($level=="Admin")
+		{
+	?>
 	<div class="row">
 		<div class="col-md-3">
 			<div class="card bg-primary p-20">
@@ -59,10 +59,10 @@ if($level=="Admin")
 
 
 	<?php
-$level=$this->session->userdata('level');
-if($level=="Member")
-{
-?>
+		$level=$this->session->userdata('level');
+			if($level=="Member")
+		{
+	?>
 	<div class="row">
 		<div class="col-md-3">
 			<div class="card bg-primary p-20">

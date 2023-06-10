@@ -65,7 +65,6 @@
 			<div class="form-group">
 				<select class="form-control" id="filter-portfolio" onchange="filterPortfolio('onchange')">
 					<option value="*">Show All</option>
-
 					<?php foreach($kategori as $row):?>
 						<option value=".<?php echo $row->nama_kategori;?>"><?php echo $row->nama_kategori;?></option>
 					<?php endforeach;?>
@@ -104,14 +103,14 @@
 							<span class="price">
 								Rp <?php echo $item->price ?>
 							</span>
-							<a href="javasript:;"
+							<!-- <a href="javasript:;"
 								class="btn btn-product">
 								Beli sekarang
-							</a>
-							<!-- <a href="<?php echo base_url();?>frontend/detail_product/<?PHP echo $item->id_product ?>"
+							</a> -->
+							<a href="<?php echo base_url();?>frontend/detail_product/<?PHP echo $item->id_product ?>"
 								class="btn btn-product">
 								Lihat detail produk
-							</a> -->
+							</a>
 						</div>
  					</div>
  					<!-- END LIST PRODUK -->

@@ -1,0 +1,13 @@
+/* 
+    KUMPULAN LIST COMPONENT
+*/
+/* @import "./components/toggle.css"; */
+@import "./components/typography.css";
+@import "./components/button.css";
+
+/* 
+    STYLING CSS UNTUK HOME PAGE
+*/
+@import "./pages/home.css";
+@import "./pages/biodata.css";
+@import "./pages/chart.css";

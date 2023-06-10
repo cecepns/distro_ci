@@ -7,7 +7,10 @@ class M_product extends CI_Model {
     
     public function view_product ()
     {
-        return $this->db->query("SELECT tbl_product.id_product, tbl_product.price, tbl_product.name_product, tbl_product.img_product, tbl_product.desc_product, tbl_kategori.nama_kategori  FROM tbl_product INNER JOIN tbl_kategori ON tbl_product.id_category=tbl_kategori.id_kategori")->result();
+        return $this->db->query("SELECT tbl_product.id_product, 
+        tbl_product.price, tbl_product.name_product, tbl_product.img_product, 
+        tbl_product.desc_product, tbl_kategori.nama_kategori  FROM tbl_product INNER JOIN tbl_kategori ON tbl_product.id_category=tbl_kategori.id_kategori")
+        ->result();
     }
     
     public function proses_tambah($data)

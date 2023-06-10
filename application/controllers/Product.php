@@ -61,8 +61,9 @@ class Product extends CI_Controller{
             }
         }
 
-        
     }
+
+
     // Get_Data_By_ID
     public function edit_product($id)
     {
@@ -133,9 +134,9 @@ class Product extends CI_Controller{
                 }
             }
         }
-
-        
     }
+
+    
     //  Delete
     public function hapus_product($id)
     {       
