@@ -17,7 +17,7 @@ if($level=="Admin")
         <a href="<?php echo base_url() ?>supplier/view_supplier" ><i class="fa fa-list"></i><span class="hide-menu">Supplier</span></a>
     </li>
     <li>
-        <a href="<?php echo base_url() ?>Gallery/view_gallery" ><i class="fa fa-image"></i><span class="hide-menu">Kelola Gallery</span></a>
+        <!-- <a href="<?php echo base_url() ?>Gallery/view_gallery" ><i class="fa fa-image"></i><span class="hide-menu">Kelola Gallery</span></a> -->
     </li>
     <li>
         <a href="<?php echo base_url() ?>aboutme" ><i class="fa fa-info"></i><span class="hide-menu">Kelola Tentang Situs</span></a>
